@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a job.
+- 🔭 I’m working on passing my degree at the University of Newcastle.
 - 🌱 I’m currently learning computer science.
 - 👯 I’m looking to collaborate on programming.
 - 🤔 I’m looking for help with programming.

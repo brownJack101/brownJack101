@@ -12,5 +12,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything
 - 📫 How to reach me: www.linkedin.com/in/rathanak-chhorda-206b80292
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: lol?
 
